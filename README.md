@@ -2,7 +2,7 @@
 
 - I'm currently a Senior Software Developer working at SiDi.
 - I'm a **computer engineer** graduated at UNIRP.
-- I'm a specialit in **software engineering** graduated at USP/Esalq.
+- I'm a specialist in **software engineering** graduated at USP/Esalq.
 - I've 10 years experience with professional development using Visual Basic 6, .NET (WinUI, WPF, UWP and Windows Form), C++.
 - I've experience working with Python
 - By now i'm looking to learn about the **web/mobile ecosystem**, i was a participant in **RocketSeat** 🚀 GoStack bootcamp, where i learned in depth about the **fullstack NodeJS (Express), React Native and React JS**.
